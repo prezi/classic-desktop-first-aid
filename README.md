@@ -13,7 +13,7 @@ To run the fixes, please follow these instructions:
 - unzip the downloaded file
 - open the `Terminal` application, and go to the directory you have just unzipped:
   ```bash
-  cd Downloads/classic-desktop-first-aid
+  cd Downloads/classic-desktop-first-aid-master
   ```
 - run the script:
   ```bash
